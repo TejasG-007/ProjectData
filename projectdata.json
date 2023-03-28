@@ -1,4 +1,13 @@
 {
+ 
+ "iam":{
+ "title":"Tejas Gathekar",
+  "desc":"An experienced Flutter developer with 2.5 years of experience in developing and maintaining mobile applications. Skilled in building robust and user-friendly applications using Flutter and Dart. Proficient in implementing RESTful APIs, integrating third-party libraries, and optimizing app performance. Seeking a challenging role in a dynamic organization where I can contribute my skills and knowledge to develop innovative and impactful mobile applications.",
+   "resume":false,
+   "resume_link":""
+ }
+  
+  
 "social_media_app":{
 "name":"Social Media App",
 "desc":"desc here",
