@@ -1,4 +1,3 @@
-
 {
     "personal data": {
       "name": "Tejas Gathekar",
@@ -8,82 +7,81 @@
       "data": [
         {
   
-      "anim":'left',
-      "imgsrc":MedG,
-      "title":'MedG',
-      "desc":'Medical Alert Application which help students parents , doctor and hostel head about their recent health condition.',
-      "buttontitle":'Google Play Store',
-      "btnurl":'https://play.google.com/store/apps/details?id=com.mateg.medg'
+      "anim":"left",
+      "imgsrc":"https://raw.githubusercontent.com/TejasG-007/ProjectData/86b99b959b338b0f2ce2bc10241f8874da1a079f/P-Images/banner.jpg",
+      "title":"MedG",
+      "desc":"Medical Alert Application which help students parents , doctor and hostel head about their recent health condition.",
+      "buttontitle":"Google Play Store",
+      "btnurl":"https://play.google.com/store/apps/details?id=com.mateg.medg"
   },
   {
     
-      "anim":'top',
-      "imgsrc":Shayari,
-      "title":'ShayariTM Android App',
-      "desc":'ShayariTM is android mobile application which includes all types of Shayari’s and Entertainments Stuff.',
-      "buttontitle":'Google Play Store',
-      "btnurl":'https://play.google.com/store/apps/details?id=com.mateg.shayaritm'
+      "anim":"top",
+      "imgsrc":"https://raw.githubusercontent.com/TejasG-007/ProjectData/86b99b959b338b0f2ce2bc10241f8874da1a079f/P-Images/shayari.jpg",
+      "title":"ShayariTM Android App",
+      "desc":"ShayariTM is android mobile application which includes all types of Shayari’s and Entertainments Stuff.",
+      "buttontitle":"Google Play Store",
+      "btnurl":"https://play.google.com/store/apps/details?id=com.mateg.shayaritm"
   },
   {
     
-      "anim":'bottom',
-      "imgsrc":BMI,
-      "title":'BMI calculator',
-      "desc":'Created an android app using Flutter and Dart Language, where user will know about his/her body mass index.',
-      "buttontitle":'GitHub',
-      "btnurl":'https://github.com/TejasG-007/Bmi_Calculator_flutter_beutiful_UI'
+      "anim":"bottom",
+      "imgsrc":"https://raw.githubusercontent.com/TejasG-007/ProjectData/86b99b959b338b0f2ce2bc10241f8874da1a079f/P-Images/bmi.jpg",
+      "title":"BMI calculator",
+      "desc":"Created an android app using Flutter and Dart Language, where user will know about his/her body mass index.",
+      "buttontitle":"GitHub",
+      "btnurl":"https://github.com/TejasG-007/Bmi_Calculator_flutter_beutiful_UI"
   },
   {
     
-      "anim":'right',
-      "imgsrc":Quotes,
-      "title":'Quotes Android App',
-      "desc":'Quotes mobile Application using flutter framework having Quotes which are form/made by Great Peoples.',
-      "buttontitle":'Google Play Store',
-      "btnurl":'https://play.google.com/store/apps/details?id=com.mateg.shayari'
+      "anim":"right",
+      "imgsrc":"https://raw.githubusercontent.com/TejasG-007/ProjectData/86b99b959b338b0f2ce2bc10241f8874da1a079f/P-Images/quotes.jpg",
+      "title":"Quotes Android App",
+      "desc":"Quotes mobile Application using flutter framework having Quotes which are form/made by Great Peoples.",
+      "buttontitle":"Google Play Store",
+      "btnurl":"https://play.google.com/store/apps/details?id=com.mateg.shayari"
   
   },
   {
     
-      "anim":'right',
-      "imgsrc":PFL,
-      "title":'Portfolio Website',
-      "desc":'Created Portfolio Website Using ReactJS.',
-      "buttontitle":'GitHub',
-      "btnurl":'https://github.com/TejasG-007/Portfolio'
+      "anim":"right",
+      "imgsrc":"https://raw.githubusercontent.com/TejasG-007/ProjectData/86b99b959b338b0f2ce2bc10241f8874da1a079f/P-Images/portfolio.JPG",
+      "title":"Portfolio Website",
+      "desc":"Created Portfolio Website Using ReactJS.",
+      "buttontitle":"GitHub",
+      "btnurl":"https://github.com/TejasG-007/Portfolio"
   
   },
   {
-      "anim":'left',
-      "imgsrc":SSL,
-      "title":'Shankuntal School Site',
-      "desc":'Created Shankuntal School Site Using Wordpress also Provide Excellent support to Client.',
-      "buttontitle":'WordPress Site',
-      "btnurl":'https://shakuntalschool.com'
+      "anim":"left",
+      "imgsrc":"https://raw.githubusercontent.com/TejasG-007/ProjectData/86b99b959b338b0f2ce2bc10241f8874da1a079f/P-Images/school.JPG",
+      "title":"Shankuntal School Site",
+      "desc":"Created Shankuntal School Site Using Wordpress also Provide Excellent support to Client.",
+      "buttontitle":"WordPress Site",
+      "btnurl":"https://shakuntalschool.com"
   
   },
   {
       
-      "anim":'bottom',
-      "imgsrc":ITP,
-      "title":'IT Planet E-Commerce',
-      "desc":'Created E-Commerce Site Using Worpress Wo-Commerce For It-World Shop.',
-      "buttontitle":'WordPress Site',
-      "btnurl":'https://itplanet.shop'
+      "anim":"bottom",
+      "imgsrc":"https://raw.githubusercontent.com/TejasG-007/ProjectData/86b99b959b338b0f2ce2bc10241f8874da1a079f/P-Images/itplanet.JPG",
+      "title":"IT Planet E-Commerce",
+      "desc":"Created E-Commerce Site Using Worpress Wo-Commerce For It-World Shop.",
+      "buttontitle":"WordPress Site",
+      "btnurl":"https://itplanet.shop"
   
   },
   {
     
-      "anim":'right',
-      "imgsrc":FPS,
-      "title":'Flutter Portfolio Site',
-      "desc":'Responsive Flutter Portfolio Site with support of Theme Color Change.',
-      "buttontitle":'Navigate to Site',
-      "btnurl":'https://tejasg-007.github.io/tejasg.flutter.github.io'
+      "anim":"right",
+      "imgsrc":"https://raw.githubusercontent.com/TejasG-007/ProjectData/86b99b959b338b0f2ce2bc10241f8874da1a079f/P-Images/flutterportfolio.PNG",
+      "title":"Flutter Portfolio Site",
+      "desc":"Responsive Flutter Portfolio Site with support of Theme Color Change.",
+      "buttontitle":"Navigate to Site",
+      "btnurl":"https://tejasg-007.github.io/tejasg.flutter.github.io"
   
   },
       ]
     },
     "site data": {}
   }
-  
