@@ -8,7 +8,7 @@
       ]
     },
     "experience":{
-        "1":{
+        "current":{
           "name": "Accenture Pvt Ltd",
                 "from":"sep-2021",
                 "to":"present",
@@ -19,7 +19,7 @@
                     "Optimized app performance by identifying and resolving issues related to memory leaks and app crashes Followed Agile methodologies for project management and version control using Git and Github."]
                     
             },
-        "2":{
+        "past":{
             "name":"Vensark Tech. Nanded",
                 "from":"07-2020",
                 "to":"08-2021",
