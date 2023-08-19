@@ -1,5 +1,5 @@
 {
-    "personal data":{
+    "personal_data":{
         "name": "Tejas Gathekar",
       "desc": [
           "Strong in design and integration with intuitive problem-solving skills. 👋Passionate about implementing and launching new projects. Ability to translate business requirements into technical solutions. Looking to start the career as an entry-level software engineer with a reputed firm driven by technology.",
@@ -8,7 +8,8 @@
       ]
     },
     "experience":{
-        "Accenture Pvt Ltd":{
+        "1":{
+          "name": "Accenture Pvt Ltd",
                 "from":"sep-2021",
                 "to":"present",
                 "desc":[ "Designed and developed user-friendly mobile applications using Flutter and Dart for Android platforms.",
@@ -18,7 +19,8 @@
                     "Optimized app performance by identifying and resolving issues related to memory leaks and app crashes Followed Agile methodologies for project management and version control using Git and Github."]
                     
             },
-        "Vensark Tech. Nanded":{
+        "2":{
+            "name":"Vensark Tech. Nanded",
                 "from":"07-2020",
                 "to":"08-2021",
                 "desc":[
@@ -28,7 +30,7 @@
                 ]
             }
     },
-    "project data":[
+    "project_data":[
         {
           "name": "SMPO APP",
           "desc": "Developed and launched an exclusive social media platform for organization/institution members, resulting in a 40% increase in user engagement and fostering a sense of community among students and staff.\nPeople can share media (pictures, text) and others can have the opportunity to comment on and respond to them.\nThe superior authorities (teachers) may assign a task to the student at the end, state of completion notified to the authorities.\nIt's available on the web and the Android mobile app.",
