@@ -1,12 +1,11 @@
-
 {
-    "personal data": {
-      "name": "Tejas Gathekar",
+    "personal data":{
+        "name": "Tejas Gathekar",
       "desc": "An experienced Flutter developer with 2.5 years of experience in developing and maintaining mobile applications. Skilled in building robust and user-friendly applications using Flutter and Dart. Proficient in implementing RESTful APIs, integrating third-party libraries, and optimizing app performance. Seeking a challenging role in a dynamic organization where I can contribute my skills and knowledge to develop innovative and impactful mobile applications."
+    
     },
     "experience":{
-        "data":[
-            "Accenture Pvt Ltd":[
+        "Accenture Pvt Ltd":{
                 "from":"sep-2021",
                 "to":"present",
                 "desc":[ "Designed and developed user-friendly mobile applications using Flutter and Dart for Android platforms.",
@@ -15,8 +14,8 @@
                     "Utilized GetX and Provider for state management and efficient code reusability Implemented Material Design and responsive UI/UX design for better user experience.",
                     "Optimized app performance by identifying and resolving issues related to memory leaks and app crashes Followed Agile methodologies for project management and version control using Git and Github."]
                     
-            ],
-            "Vensark Tech. Pvt Ltd":[
+            },
+        "Vensark Tech. Nanded":{
                 "from":"07-2020",
                 "to":"08-2021",
                 "desc":[
@@ -24,11 +23,9 @@
 "Utilized Firebase for backend and push notification services for mobile applications. Followed best practices for Flutter, React, and WordPress development including component-based architecture, state management, and debugging.",
 "Worked closely with clients to understand their requirements and provide effective solutions."
                 ]
-            ]
-        ]
+            }
     },
-    "project data": {
-      "data": [
+    "project data":[
         {
           "name": "SMPO APP",
           "desc": "Developed and launched an exclusive social media platform for organization/institution members, resulting in a 40% increase in user engagement and fostering a sense of community among students and staff.\nPeople can share media (pictures, text) and others can have the opportunity to comment on and respond to them.\nThe superior authorities (teachers) may assign a task to the student at the end, state of completion notified to the authorities.\nIt's available on the web and the Android mobile app.",
@@ -43,7 +40,6 @@
             "web-link": "",
             "git-link":"https://github.com/TejasG-007/Todo-App.git"
           },
-    
           {
             "name": "SHAKUNTAL SCHOOL WORDPRESS",
             "desc": "I designed and developed the website for Shankuntal School using WordPress, showcasing my proficiency in web development. In addition, I provided exceptional client support, ensuring their needs were met effectively. Through this project, I demonstrated my ability to create functional and visually appealing websites while delivering outstanding service to the client.",  
@@ -78,12 +74,8 @@
             "images":[],
             "web-link":"",
             "git-link": "https://github.com/TejasG-007/MedG-byt.git"
-          },
-         
-      ]
-    },
-    "site data": {
-        "copyright":"copyright@2023 TejasG",
+          }
+        ],
+    "site data":{"copyright":"copyright@2023 TejasG"}
 
-    }
-  }
+}
