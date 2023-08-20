@@ -76,7 +76,7 @@
           {
             "name": "MEDG APP",
             "desc": "Designed and developed the MedG Android App, Especially for people who stay away from home.\nhe app will be responsible for the monitoring and management of the user's health report.\nIt will notify the person closest to the user when the user is not feeling well or has an illness.",
-            "images":["https://github.com/TejasG-007/ProjectData/blob/main/images/banner.jpg"],
+            "images":["https://raw.githubusercontent.com/TejasG-007/ProjectData/main/images/banner.jpg"],
             "web_link":"",
             "git_link": "https://github.com/TejasG-007/MedG-byt.git"
           }
