@@ -48,21 +48,27 @@
           {
             "name": "SHAKUNTAL SCHOOL WORDPRESS",
             "desc": "I designed and developed the website for Shankuntal School using WordPress, showcasing my proficiency in web development. In addition, I provided exceptional client support, ensuring their needs were met effectively. Through this project, I demonstrated my ability to create functional and visually appealing websites while delivering outstanding service to the client.",  
-            "images":[],
+            "images":[
+                "https://raw.githubusercontent.com/TejasG-007/ProjectData/main/images/school.JPG"
+            ],
             "web_link": "https://shakuntalschool.com/",
             "git_link":""
           },
           {
             "name": "IT-PLANET WORDPRESS",
             "desc": "During my internship at Vensark Tech in Nanded, I successfully developed an E-Commerce website named IT-World Shop using WordPress and WooCommerce. This platform serves as an online marketplace for IT-related products and services. By integrating WooCommerce into WordPress, I enabled features such as product listings, secure payment gateways, and order management, creating a seamless shopping experience for customers. This real-world project allowed me to apply my technical skills to enhance online shopping accessibility and gain valuable insights into E-Commerce development, user engagement, and practical web design.", 
-            "images":[],
+            "images":[
+                "https://raw.githubusercontent.com/TejasG-007/ProjectData/main/images/itplanet.JPG"
+            ],
             "web_link": "https://https://itplanet.shop/",
             "git_link":""
           },
         {
           "name": "PORTFOLIO FLUTTER",
           "desc": "I developed a responsive portfolio website using the Flutter framework, highlighting my proficiency in web development. This site not only showcases my skills and projects but also offers users the flexibility to customize the theme color according to their preferences. Through this project, I aimed to provide visitors with an interactive and visually appealing platform that reflects my capabilities while allowing them to personalize their browsing experience.",
-          "images":[],
+          "images":[
+              "https://raw.githubusercontent.com/TejasG-007/ProjectData/main/images/flutterportfolio.PNG"
+          ],
           "web_link":"https://tejasg-007.github.io/tejasg.flutter.github.io/",
           "git_link": ""
         },
