@@ -1,118 +1,125 @@
 {
-    "personal_data":{
-        "name": "Tejas Gathekar",
-      "desc": [
-          "Strong in design and integration with intuitive problem-solving skills. 👋Passionate about implementing and launching new projects. Ability to translate business requirements into technical solutions. Looking to start the career as an entry-level software engineer with a reputed firm driven by technology.",
-          "A Final-year Computer Science undergraduate student at Dr.Bat University with an interest in cybersecurity, software development and Information Technology. I am greatly influenced by the web as well as Android technologies and have good experience working with them. Actively looking forward to join a firm where I can contribute to upcoming products and help me to upgrade myself to new level."
-                   
+   "personal_data":{
+      "name":"Tejas Gathekar",
+      "desc":[
+         "Strong in design and integration with intuitive problem-solving skills. 👋Passionate about implementing and launching new projects. Ability to translate business requirements into technical solutions. Looking to start the career as an entry-level software engineer with a reputed firm driven by technology.",
+         "A Final-year Computer Science undergraduate student at Dr.Bat University with an interest in cybersecurity, software development and Information Technology. I am greatly influenced by the web as well as Android technologies and have good experience working with them. Actively looking forward to join a firm where I can contribute to upcoming products and help me to upgrade myself to new level."
       ]
-    },
-    "experience":[
-        {
-          "name": "Accenture Pvt Ltd",
-                "from":"sep-2021",
-                "to":"present",
-                "desc":[ "Designed and developed user-friendly mobile applications using Flutter and Dart for Android platforms.",
-                    "Collaborated with cross-functional teams including designers, project managers, and quality assurance engineers to ensure timely delivery of high-quality applications.",
-                    "Implemented RESTful APIs to retrieve and update data from the backend server and Integrated Firebase and SQLite for data storage, authentication, and push notifications.",
-                    "Utilized GetX and Provider for state management and efficient code reusability Implemented Material Design and responsive UI/UX design for better user experience.",
-                    "Optimized app performance by identifying and resolving issues related to memory leaks and app crashes Followed Agile methodologies for project management and version control using Git and Github."]
-                    
-        },
-        {
-            "name":"Vensark Tech. Nanded",
-                "from":"07-2020",
-                "to":"08-2021",
-                "desc":[
-                    "Developed and maintained the corporate website and Android application using WordPress and Flutter SDK.", 
-"Utilized Firebase for backend and push notification services for mobile applications. Followed best practices for Flutter, React, and WordPress development including component-based architecture, state management, and debugging.",
-"Worked closely with clients to understand their requirements and provide effective solutions."
-                ]
-        }
-    ],
-    "project_data":[
-        {
-          "name": "SMPO APP",
-          "desc": "Developed and launched an exclusive social media platform for organization/institution members, resulting in a 40% increase in user engagement and fostering a sense of community among students and staff.\nPeople can share media (pictures, text) and others can have the opportunity to comment on and respond to them.\nThe superior authorities (teachers) may assign a task to the student at the end, state of completion notified to the authorities.\nIt's available on the web and the Android mobile app.",
-          "images":[],
-          "web_link": "https://tejasg-007.github.io/SocialMEdiaApp.github.io/#/",
-          "git_link":"https://github.com/TejasG-007/SocialMEdiaApp.github.io.git"
-        },
-        {
-            "name": "TODO APP",
-            "desc": "Crafted with Flutter for Android and powered by Firebase, our innovative Todo app delivers efficient task management and organization. Its user-friendly interface ensures a seamless experience, allowing users to create, categorize, and prioritize tasks with ease. Real-time synchronization through Firebase keeps tasks up-to-date across devices, fostering collaboration and enhancing productivity. The app's cross-platform compatibility and integration with Firebase's security features provide users with a reliable and secure task management solution. With features like task completion tracking, reminders, and notifications, our app empowers users to stay on top of their responsibilities while enjoying a smooth, responsive performance.",
-             "images":[],
-            "web_link": "",
-            "git_link":"https://github.com/TejasG-007/Todo-App.git"
-          },
-          {
-            "name": "SHAKUNTAL SCHOOL WORDPRESS",
-            "desc": "I designed and developed the website for Shankuntal School using WordPress, showcasing my proficiency in web development. In addition, I provided exceptional client support, ensuring their needs were met effectively. Through this project, I demonstrated my ability to create functional and visually appealing websites while delivering outstanding service to the client.",  
-            "images":[
-                "https://raw.githubusercontent.com/TejasG-007/ProjectData/main/images/school.JPG"
-            ],
-            "web_link": "https://shakuntalschool.com/",
-            "git_link":""
-          },
-          {
-            "name": "IT-PLANET WORDPRESS",
-            "desc": "During my internship at Vensark Tech in Nanded, I successfully developed an E-Commerce website named IT-World Shop using WordPress and WooCommerce. This platform serves as an online marketplace for IT-related products and services. By integrating WooCommerce into WordPress, I enabled features such as product listings, secure payment gateways, and order management, creating a seamless shopping experience for customers. This real-world project allowed me to apply my technical skills to enhance online shopping accessibility and gain valuable insights into E-Commerce development, user engagement, and practical web design.", 
-            "images":[
-                "https://raw.githubusercontent.com/TejasG-007/ProjectData/main/images/itplanet.JPG"
-            ],
-            "web_link": "https://https://itplanet.shop/",
-            "git_link":""
-          },
-        {
-          "name": "PORTFOLIO FLUTTER",
-          "desc": "I developed a responsive portfolio website using the Flutter framework, highlighting my proficiency in web development. This site not only showcases my skills and projects but also offers users the flexibility to customize the theme color according to their preferences. Through this project, I aimed to provide visitors with an interactive and visually appealing platform that reflects my capabilities while allowing them to personalize their browsing experience.",
-          "images":[
-              "https://raw.githubusercontent.com/TejasG-007/ProjectData/main/images/flutterportfolio.PNG"
-          ],
-          "web_link":"https://tejasg-007.github.io/tejasg.flutter.github.io/",
-          "git_link": ""
-        },
-        {
-            "name": "QUOTES APP",
-            "desc": "I created a mobile application using the Flutter framework that features an assortment of insightful quotes curated from renowned individuals. This project showcases my skills in app development and my commitment to offering users a collection of impactful quotes that have been attributed to great minds. Through this endeavor, I aimed to provide users with inspiration and wisdom encapsulated in the words of distinguished figures.", 
-            "images":[],
-            "web_link":"https://play.google.com/store/apps/details?id=com.mateg.shayari",
-            "git_link": ""
-          },
-          {
-            "name": "MEDG APP",
-            "desc": "Designed and developed the MedG Android App, Especially for people who stay away from home.\nThe app will be responsible for the monitoring and management of the user's health report.\nIt will notify the person closest to the user when the user is not feeling well or has an illness.",
-            "images":["https://raw.githubusercontent.com/TejasG-007/ProjectData/main/images/banner.jpg"],
-            "web_link":"",
-            "git_link": "https://github.com/TejasG-007/MedG-byt.git"
-          },
-        {
-            "name": "IOT APP",
-            "desc": "Designed and developed a smart Android app that lets users reserve parking spots from anywhere.\nThis app calculates parking charges and buffer fees, considering travel time, and displays real- time slot availability.\nCrafted a user-friendly booking system in the app, allowing people to easily reserve parking spaces. The app automatically figures out the cost, including extra time, making parking hassle-free.\nEngineered real-time updates about available parking spots, making reservations quick. This enhances user convenience and accessibility, providing a seamless solution for parking needs.",
-            "images":[
-                "https://raw.githubusercontent.com/TejasG-007/ProjectData/main/images/iot0.jpg",
-                "https://raw.githubusercontent.com/TejasG-007/ProjectData/main/images/iot1.jpg",
-                "https://raw.githubusercontent.com/TejasG-007/ProjectData/main/images/iot2.jpg",
-                "https://raw.githubusercontent.com/TejasG-007/ProjectData/main/images/iot3.jpg",
-                "https://raw.githubusercontent.com/TejasG-007/ProjectData/main/images/iot4.jpg"
+   },
+   "experience":[
+      {
+         "name":"Accenture Pvt Ltd",
+         "from":"sep-2021",
+         "to":"present",
+         "desc":[
+            "Designed and developed user-friendly mobile applications using Flutter and Dart for Android platforms.",
+            "Collaborated with cross-functional teams including designers, project managers, and quality assurance engineers to ensure timely delivery of high-quality applications.",
+            "Implemented RESTful APIs to retrieve and update data from the backend server and Integrated Firebase and SQLite for data storage, authentication, and push notifications.",
+            "Utilized GetX and Provider for state management and efficient code reusability Implemented Material Design and responsive UI/UX design for better user experience.",
+            "Optimized app performance by identifying and resolving issues related to memory leaks and app crashes Followed Agile methodologies for project management and version control using Git and Github."
+         ]
+      },
+      {
+         "name":"Vensark Tech. Nanded",
+         "from":"07-2020",
+         "to":"08-2021",
+         "desc":[
+            "Developed and maintained the corporate website and Android application using WordPress and Flutter SDK.",
+            "Utilized Firebase for backend and push notification services for mobile applications. Followed best practices for Flutter, React, and WordPress development including component-based architecture, state management, and debugging.",
+            "Worked closely with clients to understand their requirements and provide effective solutions."
+         ]
+      }
+   ],
+   "project_data":[
+      {
+         "name":"SMPO APP",
+         "desc":"Developed and launched an exclusive social media platform for organization/institution members, resulting in a 40% increase in user engagement and fostering a sense of community among students and staff.\nPeople can share media (pictures, text) and others can have the opportunity to comment on and respond to them.\nThe superior authorities (teachers) may assign a task to the student at the end, state of completion notified to the authorities.\nIt's available on the web and the Android mobile app.",
+         "images":[
             
-            ],
-            "web_link":"",
-            "git_link": "https://github.com/TejasG-007/IOTmobile"
-          },
-        {
-            "name": "WEATHER APP",
-            "desc": "Explore the simplicity of our new Android weather app. Seamlessly combining real-time temperature updates based on your location and forecasts for various cities, this app keeps you in the know about changing weather conditions. \nEffortlessly access the current temperature in your vicinity, or easily check the temperature in any city you desire. This straightforward app is designed for quick and accurate temperature information, helping you plan your day with ease.",
-            "images":[
-                "https://raw.githubusercontent.com/TejasG-007/ProjectData/main/images/weather0.jpg",
-                "https://raw.githubusercontent.com/TejasG-007/ProjectData/main/images/weather1.jpg",
-                "https://raw.githubusercontent.com/TejasG-007/ProjectData/main/images/weather2.jpg",
-            ],
-            "web_link":"",
-            "git_link": "https://github.com/TejasG-007/book-and-Weather-/tree/weather"
-          }
-        
-        ],
-    "site_data":{"copyright":"copyright@2023 TejasG"}
-
+         ],
+         "web_link":"https://tejasg-007.github.io/SocialMEdiaApp.github.io/#/",
+         "git_link":"https://github.com/TejasG-007/SocialMEdiaApp.github.io.git"
+      },
+      {
+         "name":"TODO APP",
+         "desc":"Crafted with Flutter for Android and powered by Firebase, our innovative Todo app delivers efficient task management and organization. Its user-friendly interface ensures a seamless experience, allowing users to create, categorize, and prioritize tasks with ease. Real-time synchronization through Firebase keeps tasks up-to-date across devices, fostering collaboration and enhancing productivity. The app's cross-platform compatibility and integration with Firebase's security features provide users with a reliable and secure task management solution. With features like task completion tracking, reminders, and notifications, our app empowers users to stay on top of their responsibilities while enjoying a smooth, responsive performance.",
+         "images":[
+            
+         ],
+         "web_link":"",
+         "git_link":"https://github.com/TejasG-007/Todo-App.git"
+      },
+      {
+         "name":"SHAKUNTAL SCHOOL WORDPRESS",
+         "desc":"I designed and developed the website for Shankuntal School using WordPress, showcasing my proficiency in web development. In addition, I provided exceptional client support, ensuring their needs were met effectively. Through this project, I demonstrated my ability to create functional and visually appealing websites while delivering outstanding service to the client.",
+         "images":[
+            "https://raw.githubusercontent.com/TejasG-007/ProjectData/main/images/school.JPG"
+         ],
+         "web_link":"https://shakuntalschool.com/",
+         "git_link":""
+      },
+      {
+         "name":"IT-PLANET WORDPRESS",
+         "desc":"During my internship at Vensark Tech in Nanded, I successfully developed an E-Commerce website named IT-World Shop using WordPress and WooCommerce. This platform serves as an online marketplace for IT-related products and services. By integrating WooCommerce into WordPress, I enabled features such as product listings, secure payment gateways, and order management, creating a seamless shopping experience for customers. This real-world project allowed me to apply my technical skills to enhance online shopping accessibility and gain valuable insights into E-Commerce development, user engagement, and practical web design.",
+         "images":[
+            "https://raw.githubusercontent.com/TejasG-007/ProjectData/main/images/itplanet.JPG"
+         ],
+         "web_link":"https://https://itplanet.shop/",
+         "git_link":""
+      },
+      {
+         "name":"PORTFOLIO FLUTTER",
+         "desc":"I developed a responsive portfolio website using the Flutter framework, highlighting my proficiency in web development. This site not only showcases my skills and projects but also offers users the flexibility to customize the theme color according to their preferences. Through this project, I aimed to provide visitors with an interactive and visually appealing platform that reflects my capabilities while allowing them to personalize their browsing experience.",
+         "images":[
+            "https://raw.githubusercontent.com/TejasG-007/ProjectData/main/images/flutterportfolio.PNG"
+         ],
+         "web_link":"https://tejasg-007.github.io/tejasg.flutter.github.io/",
+         "git_link":""
+      },
+      {
+         "name":"QUOTES APP",
+         "desc":"I created a mobile application using the Flutter framework that features an assortment of insightful quotes curated from renowned individuals. This project showcases my skills in app development and my commitment to offering users a collection of impactful quotes that have been attributed to great minds. Through this endeavor, I aimed to provide users with inspiration and wisdom encapsulated in the words of distinguished figures.",
+         "images":[
+            
+         ],
+         "web_link":"https://play.google.com/store/apps/details?id=com.mateg.shayari",
+         "git_link":""
+      },
+      {
+         "name":"MEDG APP",
+         "desc":"Designed and developed the MedG Android App, Especially for people who stay away from home.\nThe app will be responsible for the monitoring and management of the user's health report.\nIt will notify the person closest to the user when the user is not feeling well or has an illness.",
+         "images":[
+            "https://raw.githubusercontent.com/TejasG-007/ProjectData/main/images/banner.jpg"
+         ],
+         "web_link":"",
+         "git_link":"https://github.com/TejasG-007/MedG-byt.git"
+      },
+      {
+         "name":"IOT APP",
+         "desc":"Designed and developed a smart Android app that lets users reserve parking spots from anywhere.\nThis app calculates parking charges and buffer fees, considering travel time, and displays real- time slot availability.\nCrafted a user-friendly booking system in the app, allowing people to easily reserve parking spaces. The app automatically figures out the cost, including extra time, making parking hassle-free.\nEngineered real-time updates about available parking spots, making reservations quick. This enhances user convenience and accessibility, providing a seamless solution for parking needs.",
+         "images":[
+            "https://raw.githubusercontent.com/TejasG-007/ProjectData/main/images/iot0.jpg",
+            "https://raw.githubusercontent.com/TejasG-007/ProjectData/main/images/iot1.jpg",
+            "https://raw.githubusercontent.com/TejasG-007/ProjectData/main/images/iot2.jpg",
+            "https://raw.githubusercontent.com/TejasG-007/ProjectData/main/images/iot3.jpg",
+            "https://raw.githubusercontent.com/TejasG-007/ProjectData/main/images/iot4.jpg"
+         ],
+         "web_link":"",
+         "git_link":"https://github.com/TejasG-007/IOTmobile"
+      },
+      {
+         "name":"WEATHER APP",
+         "desc":"Explore the simplicity of our new Android weather app. Seamlessly combining real-time temperature updates based on your location and forecasts for various cities, this app keeps you in the know about changing weather conditions. \nEffortlessly access the current temperature in your vicinity, or easily check the temperature in any city you desire. This straightforward app is designed for quick and accurate temperature information, helping you plan your day with ease.",
+         "images":[
+            "https://raw.githubusercontent.com/TejasG-007/ProjectData/main/images/weather0.jpg",
+            "https://raw.githubusercontent.com/TejasG-007/ProjectData/main/images/weather1.jpg",
+            "https://raw.githubusercontent.com/TejasG-007/ProjectData/main/images/weather2.jpg"
+         ],
+         "web_link":"",
+         "git_link":"https://github.com/TejasG-007/book-and-Weather-/tree/weather"
+      }
+   ],
+   "site_data":{
+      "copyright":"copyright@2023 TejasG"
+   }
 }
