@@ -35,7 +35,7 @@
          "name":"SMPO APP",
          "desc":"Developed and launched an exclusive social media platform for organization/institution members, resulting in a 40% increase in user engagement and fostering a sense of community among students and staff.\nPeople can share media (pictures, text) and others can have the opportunity to comment on and respond to them.\nThe superior authorities (teachers) may assign a task to the student at the end, state of completion notified to the authorities.\nIt's available on the web and the Android mobile app.",
          "images":[
-            
+            "https://raw.githubusercontent.com/TejasG-007/ProjectData/main/images/SMPO.png"
          ],
          "web_link":"https://tejasg-007.github.io/SocialMEdiaApp.github.io/#/",
          "git_link":"https://github.com/TejasG-007/SocialMEdiaApp.github.io.git"
@@ -80,7 +80,7 @@
          "name":"QUOTES APP",
          "desc":"I created a mobile application using the Flutter framework that features an assortment of insightful quotes curated from renowned individuals. This project showcases my skills in app development and my commitment to offering users a collection of impactful quotes that have been attributed to great minds. Through this endeavor, I aimed to provide users with inspiration and wisdom encapsulated in the words of distinguished figures.",
          "images":[
-            
+            "https://raw.githubusercontent.com/TejasG-007/ProjectData/main/images/quotes.jpg"
          ],
          "web_link":"https://play.google.com/store/apps/details?id=com.mateg.shayari",
          "git_link":""
