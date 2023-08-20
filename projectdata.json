@@ -98,11 +98,11 @@
          "name":"IOT APP",
          "desc":"Designed and developed a smart Android app that lets users reserve parking spots from anywhere.\nThis app calculates parking charges and buffer fees, considering travel time, and displays real- time slot availability.\nCrafted a user-friendly booking system in the app, allowing people to easily reserve parking spaces. The app automatically figures out the cost, including extra time, making parking hassle-free.\nEngineered real-time updates about available parking spots, making reservations quick. This enhances user convenience and accessibility, providing a seamless solution for parking needs.",
          "images":[
-            "https://raw.githubusercontent.com/TejasG-007/ProjectData/main/images/iot0.jpg",
-            "https://raw.githubusercontent.com/TejasG-007/ProjectData/main/images/iot1.jpg",
-            "https://raw.githubusercontent.com/TejasG-007/ProjectData/main/images/iot2.jpg",
-            "https://raw.githubusercontent.com/TejasG-007/ProjectData/main/images/iot3.jpg",
-            "https://raw.githubusercontent.com/TejasG-007/ProjectData/main/images/iot4.jpg"
+            "https://raw.githubusercontent.com/TejasG-007/ProjectData/main/images/iot0.png",
+            "https://raw.githubusercontent.com/TejasG-007/ProjectData/main/images/iot1.png",
+            "https://raw.githubusercontent.com/TejasG-007/ProjectData/main/images/iot2.png",
+            "https://raw.githubusercontent.com/TejasG-007/ProjectData/main/images/iot3.png",
+            "https://raw.githubusercontent.com/TejasG-007/ProjectData/main/images/iot4.png"
          ],
          "web_link":"",
          "git_link":"https://github.com/TejasG-007/IOTmobile"
@@ -111,9 +111,9 @@
          "name":"WEATHER APP",
          "desc":"Explore the simplicity of our new Android weather app. Seamlessly combining real-time temperature updates based on your location and forecasts for various cities, this app keeps you in the know about changing weather conditions. \nEffortlessly access the current temperature in your vicinity, or easily check the temperature in any city you desire. This straightforward app is designed for quick and accurate temperature information, helping you plan your day with ease.",
          "images":[
-            "https://raw.githubusercontent.com/TejasG-007/ProjectData/main/images/weather0.jpg",
-            "https://raw.githubusercontent.com/TejasG-007/ProjectData/main/images/weather1.jpg",
-            "https://raw.githubusercontent.com/TejasG-007/ProjectData/main/images/weather2.jpg"
+            "https://raw.githubusercontent.com/TejasG-007/ProjectData/main/images/weather0.png",
+            "https://raw.githubusercontent.com/TejasG-007/ProjectData/main/images/weather1.png",
+            "https://raw.githubusercontent.com/TejasG-007/ProjectData/main/images/weather2.png"
          ],
          "web_link":"",
          "git_link":"https://github.com/TejasG-007/book-and-Weather-/tree/weather"
