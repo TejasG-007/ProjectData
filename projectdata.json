@@ -33,7 +33,7 @@
    "project_data":[
        {
          "name":"ERP APP(Responsive)",
-         "desc":"Developed and launched an exclusive ERP (Enterprise Resource Planning) application tailored for educational institutions, allowing teachers to efficiently manage student records and assignments.\nThis resulted in improved administrative processes and the ability to generate detailed reports in PDF format.\nThe system has streamlined teacher data entry and task assignment processes, providing authorities with real-time updates on task completion.\nThis ERP application is accessible via both web and Android mobile app platforms, enhancing accessibility and convenience for all users within the organization.",
+         "desc":"Developed and launched an exclusive ERP (Enterprise Resource Planning) application tailored for educational institutions, allowing teachers to efficiently manage student records and assignments.\nThis resulted in improved administrative processes and the ability to generate detailed reports in PDF format.\nThe system has streamlined teacher data entry and task assignment processes, providing authorities with real-time updates on task completion.\nThis ERP application is accessible via both web and Android mobile app platforms, enhancing accessibility and convenience for all users within the organization.\n\nusername:admin@admin.com\npassword:admin@1",
          "images":[
             "https://raw.githubusercontent.com/TejasG-007/ProjectData/main/images/erp_app.png"
          ],
