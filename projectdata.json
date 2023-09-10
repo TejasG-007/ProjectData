@@ -31,6 +31,15 @@
       }
    ],
    "project_data":[
+       {
+         "name":"ERP APP(Responsive)",
+         "desc":"Developed and launched an exclusive ERP (Enterprise Resource Planning) application tailored for educational institutions, allowing teachers to efficiently manage student records and assignments.\nThis resulted in improved administrative processes and the ability to generate detailed reports in PDF format.\nThe system has streamlined teacher data entry and task assignment processes, providing authorities with real-time updates on task completion.\nThis ERP application is accessible via both web and Android mobile app platforms, enhancing accessibility and convenience for all users within the organization.",
+         "images":[
+            "https://raw.githubusercontent.com/TejasG-007/ProjectData/main/images/erp_app.png"
+         ],
+         "web_link":"https://tejasg-007.github.io/EPR-system-mgmt.github.io/#/",
+         "git_link":"https://github.com/TejasG-007/EPR-system-mgmt.github.io"
+      },
       {
          "name":"SMPO APP",
          "desc":"Developed and launched an exclusive social media platform for organization/institution members, resulting in a 40% increase in user engagement and fostering a sense of community among students and staff.\nPeople can share media (pictures, text) and others can have the opportunity to comment on and respond to them.\nThe superior authorities (teachers) may assign a task to the student at the end, state of completion notified to the authorities.\nIt's available on the web and the Android mobile app.",
