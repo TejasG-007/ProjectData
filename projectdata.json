@@ -122,6 +122,16 @@
          ],
          "web_link":"",
          "git_link":"https://github.com/TejasG-007/book-and-Weather-/tree/weather"
+      },
+      {
+         "name":"User Monthly Progress Web-App",
+         "desc":"Track your monthly goals effortlessly with our intuitive Monthly Progress Report Web App developed in Flutter. Set, visualize, and achieve personalized objectives with interactive charts and timely reminders. Benefit from a user-friendly interface, robust security, and detailed monthly reports summarizing your achievements. Join a supportive community and start your journey to self-improvement today!.",
+         "images":[
+            "https://raw.githubusercontent.com/TejasG-007/ProjectData/main/images/userP1.png"
+       
+         ],
+         "web_link":"https://tejasg-007.github.io/zEEhubAssesment.github.io/",
+         "git_link":"https://github.com/TejasG-007/zEEhubAssesment.github.io"
       }
    ],
    "site_data":{
