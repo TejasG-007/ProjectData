@@ -1,6 +1,11 @@
 {
    "personal_data":{
       "name":"Tejas Gathekar",
+      "social-links":{
+         "linkedin":"https://www.linkedin.com/in/tejas-gathekar/",
+         "github":"https://github.com/TejasG-007",
+         "instagram":"https://www.instagram.com/tejasg007/",
+      },
       "desc":[
          "Strong in design and integration with intuitive problem-solving skills. 👋Passionate about implementing and launching new projects. Ability to translate business requirements into technical solutions. Looking to start the career as an entry-level software engineer with a reputed firm driven by technology.",
          "I'm a seasoned Flutter developer with an impressive 2.5+ years of experience specialising in mobile app development. My expertise lies in creating robust and intuitive applications using the Flutter framework and Dart programming language. I excel at seamlessly integrating RESTful APIs, third-party libraries, and optimising app performance to deliver exceptional user experiences."
