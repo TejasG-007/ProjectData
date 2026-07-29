@@ -4,8 +4,8 @@
     "designation": "Mobile Application Developer",
     "title": "Kotlin Multiplatform • Android • iOS • Flutter",
     "location": "Pune, Maharashtra, India",
-    "email": "tejasgathekar78@gmail.com",
-    "phone": "+919146780318",
+    "email": "YOUR_EMAIL",
+    "phone": "YOUR_PHONE",
     "social_links": {
       "linkedin": "https://www.linkedin.com/in/tejas-gathekar/",
       "github": "https://github.com/TejasG-007",
@@ -13,8 +13,8 @@
       "resume": "https://raw.githubusercontent.com/TejasG-007/ProjectData/main/resume/TejasGathekar.pdf"
     },
     "desc": [
-      "Mobile Application Developer with nearly 5 years of experience building enterprise-grade mobile applications across Android, iOS, Flutter and Kotlin Multiplatform (KMP). Passionate about designing scalable architectures, crafting intuitive user experiences and delivering high-quality software for global users.",
-      "Experienced in Kotlin Multiplatform, Jetpack Compose, SwiftUI, Flutter, Clean Architecture, MVVM, Coroutines, Flow, REST APIs, Firebase, BLE integrations, dependency injection, offline-first development, CI/CD and modern mobile engineering practices. Strong believer in writing clean, maintainable and performance-optimised code."
+      "Mobile Application Developer with nearly 5 years of experience building high-quality Android, iOS, Flutter and Kotlin Multiplatform applications for enterprise customers.",
+      "Passionate about scalable architecture, clean code and creating seamless mobile experiences using modern technologies and best engineering practices."
     ]
   },
 
@@ -25,12 +25,10 @@
       "from": "Apr 2025",
       "to": "Present",
       "desc": [
-        "Developing enterprise mobile applications using Kotlin Multiplatform, Jetpack Compose and SwiftUI.",
-        "Designed and implemented shared business logic across Android and iOS while maintaining native user experiences.",
-        "Built Product Search, Branch Search, Delivery Address, Maps Integration, Order Details and multiple business-critical features.",
-        "Integrated REST APIs, offline-first architecture, dependency injection and modern mobile engineering practices.",
-        "Collaborated with international teams following Agile methodologies, code reviews and CI/CD pipelines.",
-        "Optimised application performance, fixed production issues and improved application stability."
+        "Develop enterprise mobile applications using Kotlin Multiplatform, Jetpack Compose and SwiftUI.",
+        "Build shared business logic while delivering native experiences on Android and iOS.",
+        "Develop product search, branch locator, order management and location-based features.",
+        "Improve app performance, stability and user experience through modern engineering practices."
       ]
     },
     {
@@ -39,12 +37,10 @@
       "from": "Sep 2021",
       "to": "Apr 2025",
       "desc": [
-        "Developed enterprise Flutter applications used across global retail stores.",
-        "Implemented scalable architectures using Clean Architecture, MVVM, GetX and Provider.",
-        "Integrated REST APIs, Firebase, SQLite and third-party SDKs including Zebra enterprise devices.",
-        "Worked on Bluetooth Low Energy (BLE), barcode scanning and printing integrations.",
-        "Optimised app performance, resolved production issues and reduced application crashes.",
-        "Collaborated with designers, QA engineers and product owners in Agile teams."
+        "Built enterprise Flutter applications used across global retail stores.",
+        "Integrated REST APIs, Firebase, BLE devices and Zebra enterprise hardware.",
+        "Implemented scalable architectures with Clean Architecture and MVVM.",
+        "Delivered production-ready features while improving application performance."
       ]
     },
     {
@@ -53,10 +49,9 @@
       "from": "Jul 2020",
       "to": "Aug 2021",
       "desc": [
-        "Developed Flutter applications and WordPress websites for multiple clients.",
-        "Integrated Firebase backend services and push notifications.",
-        "Worked on responsive UI development and client requirement analysis.",
-        "Delivered production-ready websites and mobile applications."
+        "Developed Flutter mobile applications and responsive web solutions.",
+        "Integrated Firebase services and modern UI components.",
+        "Worked closely with clients to deliver high-quality digital products."
       ]
     }
   ],
@@ -80,8 +75,8 @@
       "Clean Architecture",
       "MVVM",
       "Repository Pattern",
-      "Modularisation",
-      "Offline First"
+      "Offline First",
+      "Modularisation"
     ],
     "libraries": [
       "Coroutines",
@@ -89,9 +84,8 @@
       "Koin",
       "Firebase",
       "Room",
-      "SQLite",
       "Retrofit",
-      "Coil"
+      "SQLite"
     ],
     "tools": [
       "Android Studio",
@@ -100,17 +94,16 @@
       "GitHub",
       "GitHub Actions",
       "Azure DevOps",
-      "Figma",
-      "Postman"
+      "Postman",
+      "Figma"
     ],
     "others": [
       "REST APIs",
       "BLE",
       "Google Maps",
       "ML Kit",
-      "Payment Gateway",
-      "Push Notifications",
-      "DataWedge SDK"
+      "Payment Integration",
+      "Push Notifications"
     ]
   },
 
@@ -124,16 +117,15 @@
   "achievements": [
     "Accenture ACE Award Recipient",
     "Nearly 5 years of enterprise mobile development experience",
-    "Built enterprise mobile applications for global customers",
-    "Published open-source Flutter plugins",
-    "Experienced across Android, iOS, Flutter and Kotlin Multiplatform"
+    "Developed applications used by global enterprise customers",
+    "Published open-source Flutter plugins"
   ],
 
   "project_data": [
     {
       "name": "Würth NEXT",
-      "desc_short": "Enterprise B2B Mobile Commerce Platform",
-      "desc": "Enterprise Kotlin Multiplatform application supporting Android and iOS. Designed and developed Product Search, Branch Search, Delivery Address, Order Details, Maps Integration and multiple business-critical modules using shared business logic with native UI built in Jetpack Compose and SwiftUI.",
+      "desc_short": "Enterprise B2B Commerce Platform",
+      "desc": "A Kotlin Multiplatform application powering Android and iOS with shared business logic, featuring product search, branch locator, order management and location services.",
       "tech_stack": [
         "Kotlin Multiplatform",
         "Jetpack Compose",
@@ -149,8 +141,8 @@
     },
     {
       "name": "Enterprise Retail Applications",
-      "desc_short": "Flutter Enterprise Applications",
-      "desc": "Developed and maintained enterprise Flutter applications used globally across retail stores. Worked on inventory management, barcode scanning, Zebra hardware integration, Firebase services and scalable application architecture.",
+      "desc_short": "Flutter Enterprise Solutions",
+      "desc": "Built business-critical Flutter applications for global retail operations with hardware integration, offline support and scalable architecture.",
       "tech_stack": [
         "Flutter",
         "Firebase",
@@ -167,12 +159,11 @@
     {
       "name": "Zebra Scan & Print Plugin",
       "desc_short": "Open Source Flutter Plugin",
-      "desc": "Developed an open-source Flutter plugin enabling barcode scanning and printing using Zebra DataWedge SDK, simplifying enterprise hardware integrations for Flutter applications.",
+      "desc": "An open-source plugin enabling barcode scanning and printing using Zebra DataWedge SDK for enterprise Flutter applications.",
       "tech_stack": [
         "Flutter",
         "Android",
         "DataWedge",
-        "Java",
         "Kotlin"
       ],
       "images": [
@@ -184,7 +175,7 @@
     {
       "name": "SMS Watcher Plugin",
       "desc_short": "Flutter Plugin",
-      "desc": "Built a Flutter plugin for securely monitoring incoming SMS messages with native Android implementation, providing a reusable solution for OTP and messaging workflows.",
+      "desc": "A lightweight Flutter plugin for securely monitoring incoming SMS messages and simplifying OTP workflows.",
       "tech_stack": [
         "Flutter",
         "Android",
@@ -198,8 +189,8 @@
     },
     {
       "name": "ERP Management System",
-      "desc_short": "Cross-platform ERP Application",
-      "desc": "Developed a complete ERP solution for educational institutions with web and Android support. Included student management, assignment tracking, reporting and role-based access control.",
+      "desc_short": "Educational ERP Platform",
+      "desc": "A complete ERP solution for managing students, assignments, attendance and administration across educational institutions.",
       "tech_stack": [
         "Flutter",
         "Firebase",
@@ -213,8 +204,8 @@
     },
     {
       "name": "Social Media Platform",
-      "desc_short": "Community Application",
-      "desc": "Developed a social platform supporting media sharing, task assignment, comments and user engagement for educational institutions.",
+      "desc_short": "Community Engagement App",
+      "desc": "A social networking platform with media sharing, messaging and collaborative features designed for educational communities.",
       "tech_stack": [
         "Flutter",
         "Firebase"
@@ -227,8 +218,8 @@
     },
     {
       "name": "Health Monitoring App",
-      "desc_short": "Android Healthcare Solution",
-      "desc": "Designed and developed an Android application for monitoring users' health reports, emergency notifications and health management.",
+      "desc_short": "Healthcare Mobile Solution",
+      "desc": "A healthcare application for tracking medical reports, monitoring health status and sending emergency alerts.",
       "tech_stack": [
         "Flutter",
         "Firebase"
@@ -242,7 +233,7 @@
     {
       "name": "Smart Parking Application",
       "desc_short": "IoT Parking Solution",
-      "desc": "Built an IoT-enabled Android application allowing users to reserve parking slots remotely with real-time availability, automated pricing and reservation management.",
+      "desc": "An IoT-powered smart parking system enabling real-time parking availability, reservations and automated management.",
       "tech_stack": [
         "Flutter",
         "Firebase",
