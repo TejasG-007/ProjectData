@@ -8,16 +8,54 @@
   "year": "2025",
 
   "company": "Tejas Gathekar",
+  "website": "",
   "support_email": "support@poshancalculator.in",
-  "support_phone": "+91-XXXXXXXXXX",
-  "website": "https://poshancalculator.in",
+  "support_phone": "+919876543210",
 
   "hero": {
     "title": "Monitor Child Growth with Confidence",
-    "subtitle": "Poshan Calculator helps parents, pediatricians and healthcare professionals accurately evaluate child growth using WHO Growth Standards. Calculate BMI, Age, Height-for-Age, Weight-for-Age and other nutritional indicators in seconds.",
+    "subtitle": "Poshan Calculator helps parents, pediatricians, healthcare professionals and Anganwadi workers assess child growth using WHO Growth Standards. Calculate BMI, Age, Height-for-Age, Weight-for-Age, Weight-for-Height and nutritional status within seconds.",
     "primary_cta": "Download on Google Play",
-    "secondary_cta": "View Features"
+    "secondary_cta": "Explore Features"
   },
+
+  "cover_image": "https://raw.githubusercontent.com/TejasG-007/ProjectData/main/images/poshan-calculator/cover.webp",
+
+  "screenshots": [
+    "https://raw.githubusercontent.com/TejasG-007/ProjectData/main/images/poshan-calculator/screen-1.webp",
+    "https://raw.githubusercontent.com/TejasG-007/ProjectData/main/images/poshan-calculator/screen-2.webp",
+    "https://raw.githubusercontent.com/TejasG-007/ProjectData/main/images/poshan-calculator/screen-3.webp",
+    "https://raw.githubusercontent.com/TejasG-007/ProjectData/main/images/poshan-calculator/screen-4.webp"
+  ],
+
+  "overview": "Poshan Calculator is a healthcare application that simplifies child growth assessment using WHO Child Growth Standards. It eliminates manual calculations and enables parents and healthcare professionals to quickly evaluate a child's nutritional status through an intuitive mobile experience.",
+
+  "modules": [
+    {
+      "title": "BMI Calculator",
+      "description": "Calculate Body Mass Index using WHO recommendations."
+    },
+    {
+      "title": "Age Calculator",
+      "description": "Calculate exact age in years, months and days."
+    },
+    {
+      "title": "Weight-for-Age",
+      "description": "Assess whether a child's weight is appropriate for their age."
+    },
+    {
+      "title": "Height-for-Age",
+      "description": "Evaluate growth using WHO height standards."
+    },
+    {
+      "title": "Weight-for-Height",
+      "description": "Identify acute malnutrition using WHO charts."
+    },
+    {
+      "title": "Nutrition Assessment",
+      "description": "Quickly determine the child's nutritional status."
+    }
+  ],
 
   "key_features": [
     "WHO Growth Charts",
@@ -25,85 +63,76 @@
     "Age Calculator",
     "Weight Assessment",
     "Height Assessment",
-    "Nutrition Status",
+    "Weight-for-Height Analysis",
+    "Growth Monitoring",
+    "Nutrition Assessment",
     "Offline Calculations",
-    "Instant Results"
-  ],
-
-  "overview": "Poshan Calculator is a healthcare application designed to simplify child growth assessment. Instead of manually referring to WHO growth charts, the application provides instant, accurate growth analysis with an intuitive user experience.",
-
-  "why_choose": [
-    "WHO Standard Charts",
-    "Instant BMI Calculation",
-    "Growth Percentile Assessment",
-    "Age-based Nutrition Analysis",
-    "Fast Offline Calculations",
-    "Simple Mobile Experience"
-  ],
-
-  "modules": [
-    {
-      "title": "BMI Calculator",
-      "description": "Calculate Body Mass Index for children using WHO recommendations."
-    },
-    {
-      "title": "Age Calculator",
-      "description": "Precisely calculate age in years, months and days."
-    },
-    {
-      "title": "WHO Growth Charts",
-      "description": "Assess Weight-for-Age, Height-for-Age and Weight-for-Height."
-    },
-    {
-      "title": "Growth Monitoring",
-      "description": "Track children's development over time."
-    }
+    "Fast & Accurate Results",
+    "Simple User Interface",
+    "Material Design Experience"
   ],
 
   "benefits": [
-    "Ideal for Pediatricians",
-    "Useful for Anganwadi Workers",
-    "Suitable for Parents",
-    "Supports Healthcare Professionals",
-    "Quick Health Assessment",
-    "Accurate WHO Calculations"
+    "Designed for Parents",
+    "Useful for Pediatricians",
+    "Supports Anganwadi Workers",
+    "Ideal for Healthcare Professionals",
+    "Offline Calculations",
+    "Scientifically Accurate WHO Standards",
+    "Simple and Easy to Use",
+    "Instant Growth Assessment"
   ],
 
-  "screenshots": [...],
-
   "statistics": {
-    "Downloads": "1000+",
-    "Platform": "Android",
-    "Rating": "Everyone",
-    "Updated": "April 2025"
+    "downloads": "1000+",
+    "platform": "Android",
+    "framework": "Flutter",
+    "language": "Dart",
+    "content_rating": "Everyone",
+    "last_updated": "April 2025",
+    "calculation_standard": "WHO Child Growth Standards"
   },
+
+  "why_choose": [
+    "Accurate WHO-based calculations",
+    "Instant BMI and Growth Assessment",
+    "Fast offline calculations",
+    "Designed for healthcare professionals and parents",
+    "Easy-to-use mobile interface",
+    "Reliable nutritional assessment"
+  ],
 
   "faq": [
     {
-      "question": "What can I calculate?",
-      "answer": "BMI, Age, Weight-for-Age, Height-for-Age, Weight-for-Height and other WHO growth indicators."
+      "question": "What can I calculate using Poshan Calculator?",
+      "answer": "You can calculate BMI, Age, Weight-for-Age, Height-for-Age, Weight-for-Height and assess child nutritional status using WHO Growth Standards."
     },
     {
-      "question": "Does it work offline?",
-      "answer": "Yes. Growth calculations work without an internet connection."
+      "question": "Does the application work offline?",
+      "answer": "Yes. All growth calculations work completely offline."
     },
     {
-      "question": "Who can use it?",
-      "answer": "Parents, pediatricians, healthcare professionals and Anganwadi workers."
+      "question": "Who is this application designed for?",
+      "answer": "Parents, pediatricians, healthcare professionals, Anganwadi workers and nutrition experts."
+    },
+    {
+      "question": "Which growth standard is used?",
+      "answer": "The application follows the WHO Child Growth Standards for accurate child growth assessment."
     }
   ],
 
   "contact": {
-    "phone": "+91 XXXXX XXXXX",
+    "phone": "+919876543210",
     "email": "support@poshancalculator.in"
   },
 
-  "playstore": "...",
-  "privacy_policy": "...",
-  "terms": "...",
+  "playstore": "https://play.google.com/store/apps/details?id=in.tejasg.ptcal.ptcalculator",
+  "privacy_policy": "",
+  "terms": "",
 
   "data_safety": {
-    "shared_data": "No data shared",
-    "collected_data": "No personal data collected"
+    "shared_data": "No data shared with third parties.",
+    "collected_data": "No personal data collected.",
+    "security": "All growth calculations are performed locally on the device."
   }
 }
