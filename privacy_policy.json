@@ -1,0 +1,50 @@
+{
+  "app_name": "Poshan Calculator",
+  "company_name": "TMG Production",
+  "effective_date": "May 1, 2025",
+  "last_updated": "July 30, 2026",
+  "contact_email": "admin@tejasg.in",
+  "header": {
+    "badge": "Legal & Trust",
+    "title": "Privacy Policy"
+  },
+  "core_guarantee": {
+    "title": "100% On-Device & Offline Privacy",
+    "description": "At {company_name}, we respect your privacy. {app_name} operates entirely on your device. We do not collect, transmit, store, or share any personal health data, child metrics, or user identity information to external servers or third parties."
+  },
+  "sections": [
+    {
+      "id": 1,
+      "title": "1. Information Collection and Use",
+      "description": "{app_name} is designed as a local calculator. All parameters (such as height, weight, age, and nutritional status assessments) entered into the application are processed strictly in real-time inside your device's memory. No input data ever leaves your phone."
+    },
+    {
+      "id": 2,
+      "title": "2. No Data Sharing or Selling",
+      "description": "Because we do not collect or store any data, {company_name} does not sell, rent, trade, or share your or your child's data with any third-party companies, advertisers, or analytics services."
+    },
+    {
+      "id": 3,
+      "title": "3. Device Permissions",
+      "description": "The application does not require special permissions like access to contacts, precise GPS location, camera, or device storage to perform growth calculations."
+    },
+    {
+      "id": 4,
+      "title": "4. Children’s Privacy",
+      "description": "Although our application evaluates child growth metrics based on WHO standards, it is strictly an assessment tool intended for use by parents, pediatricians, Anganwadi workers, and healthcare professionals. We do not knowingly gather any identifiable metrics or personal information from children under 13."
+    },
+    {
+      "id": 5,
+      "title": "5. Changes to This Privacy Policy",
+      "description": "We may update our Privacy Policy from time to time. Any changes will be posted directly on this page with an updated 'Last Updated' date."
+    },
+    {
+      "id": 6,
+      "title": "6. Contact Us",
+      "description": "If you have any questions or suggestions regarding this Privacy Policy, please contact {company_name} at:"
+    }
+  ],
+  "footer": {
+    "copyright_text": "All rights reserved."
+  }
+}
