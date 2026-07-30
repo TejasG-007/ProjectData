@@ -21,7 +21,7 @@
     "subtitle": "Instant, offline, and secure child growth assessments for parents, pediatricians, and Anganwadi workers. Powered by official WHO Standards.",
     "primary_cta": "Download App",
     "secondary_cta": "View Features",
-    "cover_image": "https://raw.githubusercontent.com/TejasG-007/ProjectData/main/images/poshan-calculator/cover.webp",
+    "cover_image": "https://raw.githubusercontent.com/TejasG-007/ProjectData/main/images/poshan_calculator.png",
     "stats": [
       { "value": "1000+", "label": "Downloads" },
       { "value": "WHO", "label": "Standards" },
