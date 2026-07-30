@@ -1,0 +1,81 @@
+{
+  "id": "poshan-calculator",
+  "name": "Poshan Calculator",
+  "category": "Healthcare",
+  "featured": true,
+  "status": "Published",
+  "year": "2025",
+  "role": "Flutter Developer",
+  "client": "Personal Project",
+  "platforms": [
+    "Android"
+  ],
+  "desc_short": "WHO-based Child Growth & Nutrition Assessment App",
+  "desc": "A Flutter application that helps parents and healthcare professionals assess child growth using WHO standards through fast, accurate and easy-to-use nutrition calculations.",
+  "cover_image": "https://raw.githubusercontent.com/TejasG-007/ProjectData/main/images/poshan-calculator/cover.webp",
+  "images": [
+    "https://raw.githubusercontent.com/TejasG-007/ProjectData/main/images/poshan-calculator/cover.webp",
+    "https://raw.githubusercontent.com/TejasG-007/ProjectData/main/images/poshan-calculator/screen-1.webp",
+    "https://raw.githubusercontent.com/TejasG-007/ProjectData/main/images/poshan-calculator/screen-2.webp",
+    "https://raw.githubusercontent.com/TejasG-007/ProjectData/main/images/poshan-calculator/screen-3.webp",
+    "https://raw.githubusercontent.com/TejasG-007/ProjectData/main/images/poshan-calculator/screen-4.webp"
+  ],
+  "overview": "Poshan Calculator was built to simplify child growth monitoring by providing quick nutritional assessments based on WHO growth standards. The application enables users to calculate and track growth parameters using a clean, intuitive mobile experience.",
+  "challenge": "Growth assessment often requires multiple manual calculations and reference charts, making it difficult for parents and healthcare workers to perform quick evaluations accurately.",
+  "solution": "Designed and developed a Flutter application that automates growth calculations, provides instant nutritional assessments and delivers an intuitive experience for monitoring children's development.",
+  "responsibilities": [
+    "Designed complete application architecture",
+    "Developed responsive Flutter UI",
+    "Implemented WHO-based growth calculation logic",
+    "Integrated Firebase services",
+    "Optimized application performance",
+    "Published and maintained the application on Google Play"
+  ],
+  "features": [
+    "Child growth assessment",
+    "WHO standard growth calculations",
+    "Growth parameter tracking",
+    "Nutrition assessment",
+    "Simple and intuitive interface",
+    "Fast calculation engine",
+    "Responsive mobile UI",
+    "Material Design implementation"
+  ],
+  "tech_stack": [
+    "Flutter",
+    "Dart",
+    "Firebase",
+    "Android",
+    "Material Design"
+  ],
+  "playstore": "https://play.google.com/store/apps/details?id=in.tejasg.ptcal.ptcalculator",
+  "github": "",
+  "web_link": "",
+  "highlights": [
+    {
+      "title": "WHO Standards",
+      "description": "Implements child growth assessment based on internationally recognized WHO growth standards."
+    },
+    {
+      "title": "Healthcare Focus",
+      "description": "Built for parents, guardians and healthcare professionals to monitor child nutrition and development."
+    },
+    {
+      "title": "Performance",
+      "description": "Lightweight Flutter application delivering quick calculations with a clean and responsive interface."
+    }
+  ],
+  "statistics": {
+    "platform": "Android",
+    "framework": "Flutter",
+    "language": "Dart",
+    "deployment": "Google Play Store",
+    "downloads": "1000+",
+    "content_rating": "Everyone",
+    "last_updated": "2025-04-03"
+  },
+  "data_safety": {
+    "shared_data": "No data shared with third parties",
+    "collected_data": "No data collected"
+  }
+}
