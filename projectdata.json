@@ -134,7 +134,7 @@
         "REST APIs"
       ],
       "images": [
-        "YOUR_PROJECT_IMAGE"
+        "NA"
       ],
       "web_link": "",
       "git_link": ""
@@ -151,11 +151,29 @@
         "Provider"
       ],
       "images": [
-        "YOUR_PROJECT_IMAGE"
+        "NA"
       ],
       "web_link": "",
       "git_link": ""
     },
+    {
+  "name": "Poshan Calculator",
+  "desc_short": "Android Kotlin Multiplatform Healthcare Application",
+  "desc": "A modern child growth assessment application built using Kotlin Multiplatform, enabling healthcare professionals, Anganwadi workers, and parents to calculate BMI, assess nutritional status, and monitor child growth based on WHO Child Growth Standards through a simple and intuitive interface.",
+  "tech_stack": [
+    "Kotlin Multiplatform",
+    "Jetpack Compose",
+    "Kotlin",
+    "MVVM",
+    "Material 3",
+    "Android"
+  ],
+  "images": [
+    "https://raw.githubusercontent.com/TejasG-007/ProjectData/refs/heads/main/images/poshan_calculator.png"
+  ],
+  "web_link": "https://play.google.com/store/apps/details?id=in.tejasg.ptcal.ptcalculator",
+  "git_link": ""
+},
     {
       "name": "Zebra Scan & Print Plugin",
       "desc_short": "Open Source Flutter Plugin",
@@ -167,7 +185,7 @@
         "Kotlin"
       ],
       "images": [
-        "YOUR_PROJECT_IMAGE"
+        "NA"
       ],
       "web_link": "",
       "git_link": "https://github.com/TejasG-007"
@@ -182,7 +200,7 @@
         "Kotlin"
       ],
       "images": [
-        "YOUR_PROJECT_IMAGE"
+        "NA"
       ],
       "web_link": "",
       "git_link": "https://github.com/TejasG-007"
